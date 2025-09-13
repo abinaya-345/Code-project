@@ -1,2 +1,2 @@
-# Code-project
-Code project description
+# AI driven movie recommendation system
+Code project description:An AI-driven movie recommendation system uses machine learning algorithms to predict user preferences based on their viewing history, ratings, and interactions. It analyzes patterns in user behavior and movie metadata to provide personalized suggestions, enhancing the user experience and driving engagement. By combining collaborative filtering, content-based filtering, and deep learning models, these systems offer accurate and diverse recommendations, making them a crucial component of streaming platforms like Netflix and Amazon Prime Video.
